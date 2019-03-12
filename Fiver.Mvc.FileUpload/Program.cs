@@ -7,6 +7,7 @@ namespace Fiver.Mvc.FileUpload
     {
         public static void Main(string[] args)
         {
+            //add my custom comment
             BuildWebHost(args).Run();
         }
 
